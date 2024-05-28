@@ -51,6 +51,7 @@ text-align: center;
 
 }
 .me {
+  padding-left: 100px;
     float: left; 
     height: 700px;
 
