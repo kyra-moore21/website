@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+.bungee-inline-regular {
+    font-family: "Bungee Inline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  #formatHeader {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    padding-right: 100px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+
+ 
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(227, 208, 248);
+    color: rgb(49, 27, 9);
+   
+    
+}
+.homep{
+    padding-right:  100px;
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+header {
+padding: 10px 16px;
+background: #E7DDFF;
+color: #1e2349;
+text-align: center;
+    word-spacing: 40px;
+    position: sticky;
+    top: 0px;
+    width: 100%
+
+}
+.me {
+    float: left; 
+    height: 700px;
+
+}
+
+  footer {
+    padding: 10px 16px;
+    background: #E7DDFF;
+    
+    text-align: center;
+    word-spacing: 40px;
+    position: fixed;
+    width:100%;
+    bottom:0px;
+  }
+  nav {
+    color: #5F4A42;
+  }
+ 
