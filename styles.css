@@ -21,11 +21,15 @@
  
   body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(227, 208, 248);
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(177,148,233,1) 100%);
     color: rgb(49, 27, 9);
-   
+  }
+    .para {
+      max-width: 80ch;
+    }
     
-}
+
 .homep{
     padding-right:  100px;
     text-align: right;
@@ -34,9 +38,10 @@
     align-items: right;
 }
 
+
 header {
 padding: 10px 16px;
-background: #E7DDFF;
+background: #e7ddff7f;
 color: #1e2349;
 text-align: center;
     word-spacing: 40px;
@@ -53,7 +58,7 @@ text-align: center;
 
   footer {
     padding: 10px 16px;
-    background: #E7DDFF;
+    background: #e7ddff7f;
     
     text-align: center;
     word-spacing: 40px;
